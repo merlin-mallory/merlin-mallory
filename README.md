@@ -21,7 +21,7 @@
 
 - 🌱 I’m currently learning **Python and JavaScript**
 
-- 🔭 I’m currently doing [Codepath's Advanced Software Engineering Course](https://github.com/merlin-mallory/Codepath-Pod46)
+- 🔭 I’m currently working on [Codepath's Advanced Software Engineering Course](https://github.com/merlin-mallory/Codepath-Pod46)
 
 - 👨‍💻 All of my projects are available [here](https://github.com/merlin-mallory?tab=repositories)
 
