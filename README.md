@@ -11,7 +11,7 @@
 
 - <img src="USA_flag.png" height=2.5% width=2.5%> My first bachelors degree was a BA in Economics with the University of Minnesota Morris
 
-- <img src="USA_flag.png" height=2.5% width=2.5%> I have 3 years of IT/web development work experience in USA
+- <img src="USA_flag.png" height=2.5% width=2.5%> I have 3 years of IT/web developer work experience in USA
 
 - <img src="SK_flag.png" height=2.5% width=2.5%> I have 5 years of English teacher work experience in South Korea
 
