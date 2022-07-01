@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Merlin Mallory</h1>
-<h3 align="center">I'm career changing from English teacher to software engineer</h3>
+<h3 align="center">Career changing from English teacher to software engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=merlin-mallory&label=Profile%20views&color=0e75b6&style=flat" alt="merlin-mallory" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- ⚡ Fun facts **I got my first degree in Economics. I worked 3 years in IT in USA, 5 years as an English teacher in South Korea, and I've spent the last 3 years studying Japanese and Computer Science in Japan. I'm seeking a summer 2023 internship back home in USA.**
+- ⚡ My bio **I got my first degree in Economics. I worked 3 years in IT in USA, 5 years as an English teacher in South Korea, and I've spent the last 3 years studying Japanese and Computer Science in Japan. I'm currently pursuing a bachelors degree in Computer Science with Oregon State University, and I have about 1.5 years remaining. I'm seeking a summer 2023 software engineer internship back home in USA.**
 
 - 🔭 I’m currently working on [Codepath's Advanced Software Engineering Course](https://github.com/merlin-mallory/Codepath-Pod46)
 
