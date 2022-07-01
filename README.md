@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- ⚡ My bio **I got my first degree in Economics. I worked 3 years in IT in USA, 5 years as an English teacher in South Korea, and I've spent the last 3 years studying Japanese and Computer Science in Japan. I'm currently pursuing a bachelors degree in Computer Science with Oregon State University, and I have about 1.5 years remaining. I'm seeking a summer 2023 software engineer internship back home in USA.**
+- ⚡ My bio **I got my first degree in Economics, and I worked 3 years in IT in USA. Then I worked in South Korea for 5 years as an English teach, and I've spent the last 3 years learning Japanese and programming in Japan. I'm currently a rising junior in my second bachelors degree, which is a BS in Computer Science with Oregon State University that I'm doing remotely while living in Japan. I'm seeking a summer 2023 software engineer internship back home in USA.**
 
 - 🔭 I’m currently working on [Codepath's Advanced Software Engineering Course](https://github.com/merlin-mallory/Codepath-Pod46)
 
