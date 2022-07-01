@@ -13,7 +13,7 @@
 
 - <img src="SK_flag.png" height=2.5% width=2.5%> I have 5 years of English teacher work experience in South Korea
 
-- <img src="JP_flag.png" height=2.5% width=2.5%> I've spent the last 3 years studying in Japan, learning Japanese and programming
+- <img src="JP_flag.png" height=2.5% width=2.5%> I've spent the last 3 years studying Japanese and programming in Japan
 
 - <img src="USA_flag.png" height=2.5% width=2.5%> I'm seeking summer 2023 / fall 2023 software engineer internships back in USA
 
