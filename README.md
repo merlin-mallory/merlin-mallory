@@ -7,15 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- ⚡ Fun facts **I got my first degree in Economics. I worked 3 years in IT in USA, 5 years as an English teacher in South Korea, and I've spent the last 3 years studying Japanese and Computer Science in Japan. I'm seeking a summer 2023 internship back home in USA.**
+
 - 🔭 I’m currently working on [Codepath's Advanced Software Engineering Course](https://github.com/merlin-mallory/Codepath-Pod46)
 
 - 🌱 I’m currently learning **Python and JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/merlin-mallory?tab=repositories](https://github.com/merlin-mallory?tab=repositories)
 
-- 📫 How to reach me **merlin.mallory.coder@gmail.com**
+- 💬 Reach me on Discord **merlin#4423**
 
-- ⚡ Fun facts **I got my first degree in Economics. I worked 3 years in IT in USA, 5 years as an English teacher in South Korea, and I've spent the last 3 years studying Japanese and Computer Science in Japan. I'm seeking a summer 2023 internship back home in USA.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
