@@ -13,7 +13,7 @@
 
 - <img src="USA_flag.png" height=2.5% width=2.5%> I have 3 years of IT/web development work experience in USA
 
-- <img src="SK_flag.png" height=2.5% width=2.5%> And 5 years of English teacher work experience in South Korea
+- <img src="SK_flag.png" height=2.5% width=2.5%> I have 5 years of English teacher work experience in South Korea
 
 - <img src="JP_flag.png" height=2.5% width=2.5%> And I've spent the last 3 years studying in Japan, learning Japanese and programming
 
