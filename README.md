@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **merlin.mallory.coder@gmail.com**
 
-- ⚡ Fun fact **I've spent the last 8 years working and studying in East Asia**
+- ⚡ Fun fact **I've spent the last 8 years working and studying in South Korea and Japan**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
