@@ -5,7 +5,7 @@
 
 ⚡ My bio!
 
-- <img src="USA_flag.png" height=2.5% width=2.5%> My first bachelors degree was a BA in Economics with the University of Minnesota Morris
+- 📈 My first bachelors degree was a BA in Economics with the University of Minnesota Morris
 
 - 👨‍💻 I'm currently a rising junior in my second bachelors degree, which is a BS in Computer Science with Oregon State University
 
