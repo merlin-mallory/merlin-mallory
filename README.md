@@ -11,11 +11,11 @@
 
 - <img src="USA_flag.png" height=2.5% width=2.5%> My first bachelors degree was a BA in Economics with the University of Minnesota Morris
 
-- <img src="USA_flag.png" height=2.5% width=2.5%> I worked for 3 years in IT/web development in USA
+- <img src="USA_flag.png" height=2.5% width=2.5%> I have 3 years of IT/web development work experience in USA
 
-- <img src="SK_flag.png" height=2.5% width=2.5%> Then I worked in South Korea 🇰🇷 for 5 years as an English teacher
+- <img src="SK_flag.png" height=2.5% width=2.5%> And 5 years of English teacher work experience in South Korea
 
-- <img src="JP_flag.png" height=2.5% width=2.5%> I've spent the last 3 years learning Japanese and programming in Japan
+- <img src="JP_flag.png" height=2.5% width=2.5%> And I've spent the last 3 years studying in Japan, learning Japanese and programming
 
 - 👨‍💻 I'm currently a rising junior in my second bachelors degree, which is a BS in Computer Science with Oregon State University
 
