@@ -9,7 +9,7 @@
 
 ⚡ My bio!
 
-- <img src="USA_flag.png" height=2.5% width=2.5%> I got my first degree in Economics with University of Minnesota Morris, and I worked 3 years in IT in USA
+- <img src="USA_flag.png" height=2.5% width=2.5%> I got my first degree in Economics with University of Minnesota Morris, and I worked 3 years in IT/web development in USA
 
 - <img src="SK_flag.png" height=2.5% width=2.5%> Then I worked in South Korea 🇰🇷 for 5 years as an English teacher
 
@@ -18,6 +18,8 @@
 - 👨‍💻 I'm currently a rising junior in my second bachelors degree, which is a BS in Computer Science with Oregon State University
 
 - <img src="USA_flag.png" height=2.5% width=2.5%> I'm seeking summer 2023 / fall 2023 software engineer internships back home in USA
+
+⚡ Stuff I'm working on!
 
 - 🔭 I’m currently working on [Codepath's Advanced Software Engineering Course](https://github.com/merlin-mallory/Codepath-Pod46)
 
