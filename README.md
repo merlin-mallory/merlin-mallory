@@ -9,7 +9,9 @@
 
 ⚡ My bio!
 
-- <img src="USA_flag.png" height=2.5% width=2.5%> I worked for 3 years in IT/web development in USA, and my first bachelors degree was a BA in Economics with the University of Minnesota Morris
+- <img src="USA_flag.png" height=2.5% width=2.5%> My first bachelors degree was a BA in Economics with the University of Minnesota Morris
+
+- <img src="USA_flag.png" height=2.5% width=2.5%> I worked for 3 years in IT/web development in USA
 
 - <img src="SK_flag.png" height=2.5% width=2.5%> Then I worked in South Korea 🇰🇷 for 5 years as an English teacher
 
