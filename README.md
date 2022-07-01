@@ -25,8 +25,6 @@
 
 - 👨‍💻 All of my projects are available [here](https://github.com/merlin-mallory?tab=repositories)
 
-- 💬 Reach me on Discord here: **merlin#4423**
-
 
 
 
