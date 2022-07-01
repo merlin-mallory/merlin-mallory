@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Merlin Mallory</h1>
-<h3 align="center">Career changing from English teacher to software engineer</h3>
+<h3 align="center">I'm career changing from English teacher to software engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=merlin-mallory&label=Profile%20views&color=0e75b6&style=flat" alt="merlin-mallory" /> </p>
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **merlin.mallory.coder@gmail.com**
 
-- ⚡ Fun fact **I've spent the last 8 years working and studying in South Korea and Japan**
+- ⚡ Fun facts **I got my first degree in Economics. I worked 3 years in IT in USA, 5 years as an English teacher in South Korea, and I've spent the last 3 years studying Japanese and Computer Science in Japan. I'm seeking a summer 2023 internship back home in USA.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
