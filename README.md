@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=merlin-mallory&label=Profile%20views&color=0e75b6&style=flat" alt="merlin-mallory" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 ⚡ My bio!
 
 - <img src="USA_flag.png" height=2.5% width=2.5%> My first bachelors degree was a BA in Economics with the University of Minnesota Morris
