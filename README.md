@@ -7,7 +7,7 @@
 
 - 📈 My first bachelors degree was a BA in Economics with the University of Minnesota Morris
 
-- 👨‍💻 I'm working on my second bachelors degree, which is a BS in Computer Science with Oregon State University (Dec 2023 grad)
+- 👨‍💻 I'm a junior in my second bachelors degree, which is a BS in Computer Science with Oregon State University
 
 - <img src="USA_flag.png" height=2.5% width=2.5%> I have 3 years of IT/web developer work experience in USA
 
