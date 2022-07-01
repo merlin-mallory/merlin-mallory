@@ -11,13 +11,13 @@
 
 - <img src="USA_flag.png" height=2.5% width=2.5%> My first bachelors degree was a BA in Economics with the University of Minnesota Morris
 
+- 👨‍💻 I'm currently a rising junior in my second bachelors degree, which is a BS in Computer Science with Oregon State University
+
 - <img src="USA_flag.png" height=2.5% width=2.5%> I have 3 years of IT/web developer work experience in USA
 
 - <img src="SK_flag.png" height=2.5% width=2.5%> I have 5 years of English teacher work experience in South Korea
 
-- <img src="JP_flag.png" height=2.5% width=2.5%> And I've spent the last 3 years studying in Japan, learning Japanese and programming
-
-- 👨‍💻 I'm currently a rising junior in my second bachelors degree, which is a BS in Computer Science with Oregon State University
+- <img src="JP_flag.png" height=2.5% width=2.5%> I've spent the last 3 years studying in Japan, learning Japanese and programming
 
 - <img src="USA_flag.png" height=2.5% width=2.5%> I'm seeking summer 2023 / fall 2023 software engineer internships back home in USA
 
