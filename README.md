@@ -15,7 +15,7 @@
 
 - <img src="JP_flag.png" height=2.5% width=2.5%> I've spent the last 3 years studying in Japan, learning Japanese and programming
 
-- <img src="USA_flag.png" height=2.5% width=2.5%> I'm seeking summer 2023 / fall 2023 software engineer internships back home in USA
+- <img src="USA_flag.png" height=2.5% width=2.5%> I'm seeking summer 2023 / fall 2023 software engineer internships back in USA
 
 ⚡ Stuff I'm working on!
 
