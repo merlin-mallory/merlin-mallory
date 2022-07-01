@@ -23,7 +23,7 @@
 
 - 🌱 I’m currently learning **Python and JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/merlin-mallory?tab=repositories](https://github.com/merlin-mallory?tab=repositories)
+- 👨‍💻 All of my projects are available [here](https://github.com/merlin-mallory?tab=repositories)
 
 - 💬 Reach me on Discord **merlin#4423**
 
