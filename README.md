@@ -19,7 +19,7 @@
 
 ⚡ Stuff I'm working on!
 
-- 🌱 I’m currently learning **Python and JavaScript**
+- 🌱 I’m currently learning **Flask and SQL**
 
 - 🔭 I’m currently doing [Codepath's Advanced Software Engineering Course](https://github.com/merlin-mallory/Codepath-Pod46)
 
