@@ -15,7 +15,7 @@
 
 - <img src="JP_flag.png" height=2.5% width=2.5%> I've spent the last 3 years studying Japanese and programming in Japan
 
-- <img src="USA_flag.png" height=2.5% width=2.5%><img src="JP_flag.png" height=2.5% width=2.5%> I'm currently seeking software engineer internships and entry level roles in USA/Japan
+- <img src="USA_flag.png" height=2.5% width=2.5%><img src="JP_flag.png" height=2.5% width=2.5%> I'm currently seeking software engineer internships and junior level roles in USA/Japan
 
 ⚡ Stuff I'm working on!
 
