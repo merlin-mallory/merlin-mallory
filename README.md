@@ -19,9 +19,9 @@
 
 ⚡ Stuff I'm working on!
 
-- 🌱 I’m currently learning **Kotlin, Flask, and SQL**
-
 - 🔭 I’m currently doing [Codepath's Advanced Software Engineering Course](https://github.com/merlin-mallory/Codepath-Pod46)
+
+- 🌱 I’m learning **Kotlin, Flask, and SQL** this coming fall semester
 
 - 📝 All of my projects are available [here](https://github.com/merlin-mallory?tab=repositories)
 
