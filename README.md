@@ -19,9 +19,9 @@
 
 ⚡ Stuff I'm working on!
 
-- 🔭 I’m currently doing [Codepath's Advanced Software Engineering Course](https://github.com/merlin-mallory/Codepath-Pod46)
+- 🔭 I’m taking CS 340 Intro to Databases and CS 381 Programming Language Fundamentals at OSU this Fall, and I'm also doing Codepath's Intermediate Android Development course
 
-- 🌱 I’m learning **Kotlin, Flask, and SQL** this coming fall semester
+- 🌱 I’m learning **Kotlin, Flask, and SQL** this fall semester
 
 - 📝 All of my projects are available [here](https://github.com/merlin-mallory?tab=repositories)
 
