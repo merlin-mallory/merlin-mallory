@@ -19,9 +19,9 @@
 
 ⚡ Stuff I'm working on!
 
-- 🔭 I’m taking CS 340 Intro to Databases and CS 381 Programming Language Fundamentals at OSU this Fall, and I'm also doing Codepath's Intermediate Android Development course
+- 🔭 I’m taking CS 271 Computer Architecture and Assembly Language and CS 361 Software Engineering I at OSU this Winter
 
-- 🌱 I’m learning **Kotlin, Flask, and SQL** this fall semester
+- 🌱 I’m learning **x86 Assembly and Agile** this fall semester
 
 - 📝 All of my projects are available [here](https://github.com/merlin-mallory?tab=repositories)
 
