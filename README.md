@@ -19,9 +19,9 @@
 
 ⚡ Stuff I'm working on!
 
-- 🔭 I’m taking CS 271 Computer Architecture and Assembly Language and CS 361 Software Engineering I at OSU this Winter
+- 🔭 I’m taking CS 271 Computer Architecture and Assembly Language and CS 361 Software Engineering I at OSU
 
-- 🌱 I’m learning **x86 Assembly and Agile** this fall semester
+- 🌱 I’m learning **x86 Assembly and Agile** this quarter
 
 - 📝 All of my projects are available [here](https://github.com/merlin-mallory?tab=repositories)
 
