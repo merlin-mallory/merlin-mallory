@@ -9,7 +9,7 @@
 
 - 👨‍💻 I'm currently a senior in my second degree, which is a BS in Computer Science with Oregon State University
 
-- <img src="USA_flag.png" height=2.5% width=2.5%> I have 3 years of IT/web developer work experience in USA
+- <img src="USA_flag.png" height=2.5% width=2.5%> I have 3 years of IT work experience in USA
 
 - <img src="SK_flag.png" height=2.5% width=2.5%> I have 5 years of English teacher work experience in South Korea
 
