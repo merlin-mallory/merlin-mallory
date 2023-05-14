@@ -19,9 +19,9 @@
 
 ⚡ Stuff I'm working on!
 
-- 🔭 I’m taking CS 271 Computer Architecture and Assembly Language and CS 361 Software Engineering I at OSU
+- 🔭 I’m taking CS 406 Projects and CS 391 Ethical Issues in Computer Science at OSU
 
-- 🌱 I’m learning **x86 Assembly and Agile** this quarter
+- 🌱 I’m learning **Pandas, PowerBI, and React** this quarter
 
 - 📝 All of my projects are available [here](https://github.com/merlin-mallory?tab=repositories)
 
