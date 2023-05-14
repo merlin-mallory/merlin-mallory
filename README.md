@@ -21,7 +21,7 @@
 
 - 🔭 I’m taking CS 406 Projects and CS 391 Ethical Issues in Computer Science at OSU
 
-- 🌱 I’m learning **Pandas, PowerBI, and React** this quarter
+- 🌱 I’m learning **Pandas, PowerBI, React, and Firebase** this quarter
 
 - 📝 All of my projects are available [here](https://github.com/merlin-mallory?tab=repositories)
 
