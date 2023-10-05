@@ -15,13 +15,13 @@
 
 - <img src="JP_flag.png" height=2.5% width=2.5%> I've spent the last 3 years studying Japanese and programming in Japan
 
-- <img src="USA_flag.png" height=2.5% width=2.5%> I'm currently seeking fall 2023 software engineer internships in USA
+- <img src="USA_flag.png" height=2.5% width=2.5%> I will be moving back to USA in 2024
 
 ⚡ Stuff I'm working on!
 
-- 🔭 I’m taking CS 406 Projects and CS 391 Ethical Issues in Computer Science at OSU
+- 🔭 I’m taking CS 374 Operating Systems and CS 467 Capstone at OSU
 
-- 🌱 I’m learning **Pandas, PowerBI, React, and Firebase** this quarter
+- 🌱 I’m learning **C and Rust** this quarter
 
 - 📝 All of my projects are available [here](https://github.com/merlin-mallory?tab=repositories)
 
