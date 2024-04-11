@@ -7,21 +7,21 @@
 
 - 📈 My first degree was a BA in Economics with the University of Minnesota Morris
 
-- 👨‍💻 I'm currently a senior in my second degree, which is a BS in Computer Science with Oregon State University
+- 👨‍💻 My second degree is a BS in Computer Science with Oregon State University
 
 - <img src="USA_flag.png" height=2.5% width=2.5%> I have 3 years of IT work experience in USA
 
 - <img src="SK_flag.png" height=2.5% width=2.5%> I have 5 years of English teacher work experience in South Korea
 
-- <img src="JP_flag.png" height=2.5% width=2.5%> I've spent the last 3 years studying Japanese and programming in Japan
+- <img src="JP_flag.png" height=2.5% width=2.5%> I've spent the last 4 years studying Japanese and programming in Japan
 
 - <img src="USA_flag.png" height=2.5% width=2.5%> I will be moving back to USA in 2024
 
 ⚡ Stuff I'm working on!
 
-- 🔭 I’m taking CS 374 Operating Systems and CS 467 Capstone at OSU
+- 🔭 I’m currently progressing through Neetcode 150
 
-- 🌱 I’m learning **C and Rust** this quarter
+- 🌱 I’m learning **Python and Swift** right now
 
 - 📝 All of my projects are available [here](https://github.com/merlin-mallory?tab=repositories)
 
