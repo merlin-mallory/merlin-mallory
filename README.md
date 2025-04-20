@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Merlin Mallory</h1>
-<h3 align="center">Career changing to software engineer</h3>
+<h3 align="center">Software engineer career changer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=merlin-mallory&label=Profile%20views&color=0e75b6&style=flat" alt="merlin-mallory" /> </p>
 
@@ -13,15 +13,15 @@
 
 - <img src="SK_flag.png" height=2.5% width=2.5%> I have 5 years of English teacher work experience in South Korea
 
-- <img src="JP_flag.png" height=2.5% width=2.5%> I've spent the last 4 years studying Japanese and programming in Japan
+- <img src="JP_flag.png" height=2.5% width=2.5%> I've spent 4 years studying Japanese and programming in Japan
 
-- <img src="USA_flag.png" height=2.5% width=2.5%> I will be moving back to USA in 2024
+- <img src="USA_flag.png" height=2.5% width=2.5%> I moved back to USA in 2024, and am currently working as a software engineer.
 
 ⚡ Stuff I'm working on!
 
 - 🔭 I’m currently progressing through Neetcode 150
 
-- 🌱 I’m learning **Python and Swift** right now
+- 🌱 I’m learning **Kotlin and Android** right now
 
 - 📝 All of my projects are available [here](https://github.com/merlin-mallory?tab=repositories)
 
