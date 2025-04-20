@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Merlin Mallory</h1>
-<h3 align="center">Software engineer career changer</h3>
+<h3 align="center">Software Engineer (career changer)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=merlin-mallory&label=Profile%20views&color=0e75b6&style=flat" alt="merlin-mallory" /> </p>
 
